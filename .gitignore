@@ -1,0 +1,14 @@
+build/*
+
+data/Germany/labeled/*/*.png
+data/Germany/labeled/*/input.json
+
+command.txt
+
+grammar/*
+
+.vscode/*
+
+.DS_Store
+
+data/poly_line/
